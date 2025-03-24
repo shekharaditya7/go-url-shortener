@@ -1,0 +1,12 @@
+# Go-related ignores
+*.exe
+*.out
+*.log
+*.test
+*.swp
+
+# SQLite database
+*.db
+
+# OS files
+.DS_Store
